@@ -1,0 +1,12 @@
+# real credentials / environment-specific config (use config/db.local.sample.php as the template)
+config/db.local.php
+.env
+
+# logs and OS/editor files
+*.log
+error_log
+php_errors.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
